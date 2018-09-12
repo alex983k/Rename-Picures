@@ -8,3 +8,14 @@
 /Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.AssemblyInfo.cs
 /Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.dll
 /Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.pdb
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\bin\Debug\netcoreapp2.1\RenamePircures.deps.json
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\bin\Debug\netcoreapp2.1\RenamePircures.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\bin\Debug\netcoreapp2.1\RenamePircures.runtimeconfig.dev.json
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\bin\Debug\netcoreapp2.1\RenamePircures.dll
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\bin\Debug\netcoreapp2.1\RenamePircures.pdb
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.dll
+C:\Users\Alex\Documents\GitHub\Rename-Picures\RenamePircures\obj\Debug\netcoreapp2.1\RenamePircures.pdb

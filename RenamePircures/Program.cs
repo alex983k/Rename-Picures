@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
 
 namespace RenamePircures
 {
@@ -10,6 +9,13 @@ namespace RenamePircures
         {
             DirectoryInfo mainDirectory = new DirectoryInfo(@"Pictures");
             DirectoryInfo[] directories = mainDirectory.GetDirectories();
+           
+            #region Console Text
+            Console.WriteLine("Found "+ directories.Length + " directories.");
+            Console.WriteLine("Press an key to start the process.");
+            Console.ReadKey();
+            #endregion
+
             string newName;
             foreach (DirectoryInfo folder in directories)
             {
@@ -23,6 +29,7 @@ namespace RenamePircures
                 }
                 Directory.Move(folder.FullName, mainDirectory.FullName + newName);
             }
+            Console.WriteLine("Process done, check the directory.");
             Console.ReadKey();
         }
 

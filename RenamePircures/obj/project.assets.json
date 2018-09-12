@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/alexandru/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexandru/Projects/RenamePircures/RenamePircures/RenamePircures.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Rename-Picures\\RenamePircures\\RenamePircures.csproj",
       "projectName": "RenamePircures",
-      "projectPath": "/Users/alexandru/Projects/RenamePircures/RenamePircures/RenamePircures.csproj",
-      "packagesPath": "/Users/alexandru/.nuget/packages/",
-      "outputPath": "/Users/alexandru/Projects/RenamePircures/RenamePircures/obj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Rename-Picures\\RenamePircures\\RenamePircures.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Rename-Picures\\RenamePircures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/alexandru/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -720,9 +722,8 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "2.1",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
