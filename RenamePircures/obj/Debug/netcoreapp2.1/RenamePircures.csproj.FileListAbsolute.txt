@@ -1,0 +1,10 @@
+/Users/alexandru/Projects/RenamePircures/RenamePircures/bin/Debug/netcoreapp2.1/RenamePircures.deps.json
+/Users/alexandru/Projects/RenamePircures/RenamePircures/bin/Debug/netcoreapp2.1/RenamePircures.runtimeconfig.json
+/Users/alexandru/Projects/RenamePircures/RenamePircures/bin/Debug/netcoreapp2.1/RenamePircures.runtimeconfig.dev.json
+/Users/alexandru/Projects/RenamePircures/RenamePircures/bin/Debug/netcoreapp2.1/RenamePircures.dll
+/Users/alexandru/Projects/RenamePircures/RenamePircures/bin/Debug/netcoreapp2.1/RenamePircures.pdb
+/Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.csproj.CoreCompileInputs.cache
+/Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.AssemblyInfoInputs.cache
+/Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.AssemblyInfo.cs
+/Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.dll
+/Users/alexandru/Projects/RenamePircures/RenamePircures/obj/Debug/netcoreapp2.1/RenamePircures.pdb
